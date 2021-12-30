@@ -1,0 +1,15 @@
+C:\Users\as\Desktop\.net\Uc8_final\bin\Debug\net6.0\Uc8_final.exe
+C:\Users\as\Desktop\.net\Uc8_final\bin\Debug\net6.0\Uc8_final.deps.json
+C:\Users\as\Desktop\.net\Uc8_final\bin\Debug\net6.0\Uc8_final.runtimeconfig.json
+C:\Users\as\Desktop\.net\Uc8_final\bin\Debug\net6.0\Uc8_final.dll
+C:\Users\as\Desktop\.net\Uc8_final\bin\Debug\net6.0\ref\Uc8_final.dll
+C:\Users\as\Desktop\.net\Uc8_final\bin\Debug\net6.0\Uc8_final.pdb
+C:\Users\as\Desktop\.net\Uc8_final\obj\Debug\net6.0\Uc8_final.csproj.AssemblyReference.cache
+C:\Users\as\Desktop\.net\Uc8_final\obj\Debug\net6.0\Uc8_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as\Desktop\.net\Uc8_final\obj\Debug\net6.0\Uc8_final.AssemblyInfoInputs.cache
+C:\Users\as\Desktop\.net\Uc8_final\obj\Debug\net6.0\Uc8_final.AssemblyInfo.cs
+C:\Users\as\Desktop\.net\Uc8_final\obj\Debug\net6.0\Uc8_final.csproj.CoreCompileInputs.cache
+C:\Users\as\Desktop\.net\Uc8_final\obj\Debug\net6.0\Uc8_final.dll
+C:\Users\as\Desktop\.net\Uc8_final\obj\Debug\net6.0\ref\Uc8_final.dll
+C:\Users\as\Desktop\.net\Uc8_final\obj\Debug\net6.0\Uc8_final.pdb
+C:\Users\as\Desktop\.net\Uc8_final\obj\Debug\net6.0\Uc8_final.genruntimeconfig.cache
